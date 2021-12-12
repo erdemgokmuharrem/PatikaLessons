@@ -1,0 +1,11 @@
+body {
+  background-color: darkgoldenrod;
+  color: black;
+}
+.body {
+  margin-top: 10rem;
+  margin-left: 40rem;
+}
+h3 span {
+  margin-left: 2.8rem;
+}

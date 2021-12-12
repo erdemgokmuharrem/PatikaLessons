@@ -1,0 +1,31 @@
+body {
+  background-color: darkcyan;
+  color: brown;
+}
+
+.baslik {
+  margin-left: 40rem;
+}
+.menu ul {
+  margin-left: 36rem;
+}
+.menu ul li {
+  padding-right: 2rem;
+  display: inline;
+  list-style: none;
+}
+.urun {
+  margin-left: 36rem;
+}
+.urun img {
+  width: 400px;
+  height: 400px;
+}
+.hakkimda {
+  margin: 100px;
+  font-size: 19px;
+  text-align: center;
+}
+.stok {
+  margin-left: 45rem;
+}
